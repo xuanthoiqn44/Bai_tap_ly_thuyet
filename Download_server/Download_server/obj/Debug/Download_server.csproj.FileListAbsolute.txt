@@ -1,0 +1,7 @@
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Download_server\Download_server\bin\Debug\Download_server.exe.config
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Download_server\Download_server\bin\Debug\Download_server.exe
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Download_server\Download_server\bin\Debug\Download_server.pdb
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Download_server\Download_server\obj\Debug\Download_server.csprojResolveAssemblyReference.cache
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Download_server\Download_server\obj\Debug\Download_server.csproj.CoreCompileInputs.cache
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Download_server\Download_server\obj\Debug\Download_server.exe
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\Download_server\Download_server\obj\Debug\Download_server.pdb
